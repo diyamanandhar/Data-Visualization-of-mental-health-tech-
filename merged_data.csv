@@ -1,4 +1,4 @@
-country,year,schizophrenia,bipolar_disorder,eating_disorder,anxiety_disorder,drug_use_disorders,depression,alcohol_use_disorders ,prevalence_in_males,prevalence_in_females,population,suicide_rate,depressive_disorder_rates,prevelance
+country,year,schizophrenia,bipolar_disorder,eating_disorder,anxiety_disorder,drug_use_disorders,depression,alcohol_use_disorders,prevalence_in_males,prevalence_in_females,population,suicide_rate,depressive_disorder_rates,prevelance
 Afghanistan,1990,0.1605595422,0.6977793845,0.1018548635,4.828829705,1.677081945,4.071831177,0.6724040862,3.499982463,4.647815314,12412000.0,10.31850413,4039.755763,318435.8137
 Afghanistan,1991,0.1603118986,0.6979605949,0.0993127901,4.829740372,1.684745731,4.079530935,0.6717681239,3.503947406,4.655771933,13299000.0,10.32701045,4046.256034,329044.774
 Afghanistan,1992,0.1601348224,0.6981069689,0.09669158929,4.831108366,1.694333945,4.088358243,0.6706440081,3.508912138,4.662065528,14486000.0,10.27141119,4053.709902,382544.5729
