@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+    font-family: "Inter Tight", sans-serif;
+}
+
+.app_wrapper {
+	width: 100%;
+	max-width: 1200px;
+
+	margin: 0 auto;
+}
+
+.dropdown-field {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+.dropdown-field .dash-dropdown {
+    flex: 0 1 275px;
+}
